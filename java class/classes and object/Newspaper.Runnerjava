@@ -1,0 +1,10 @@
+class NewspaperRunner{
+
+   public static void main(String Knowlwedge[]){
+   
+   NewsPaper details = new NewsPaper();
+    details. companyName ="The New York Times";
+    details. noOfPages ="7";
+    details. language="English"; 
+    details. price ="$2.00"; 
+ 
